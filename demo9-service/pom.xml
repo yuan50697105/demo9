@@ -11,5 +11,11 @@
 
     <artifactId>demo9-service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>demo9-database</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

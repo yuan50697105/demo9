@@ -8,6 +8,7 @@
         <module>demo9-database</module>
         <module>demo9-service</module>
         <module>demo9-web</module>
+        <module>demo9-http</module>
     </modules>
     <dependencyManagement>
         <dependencies>

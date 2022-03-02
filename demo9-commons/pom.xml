@@ -16,26 +16,6 @@
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.ejlchina</groupId>
-            <artifactId>okhttps</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.ejlchina</groupId>
-            <artifactId>okhttps-fastjson</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.ejlchina</groupId>
-            <artifactId>okhttps-jackson</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.ejlchina</groupId>
-            <artifactId>okhttps-gson</artifactId>
-        </dependency>
     </dependencies>
 
 </project>
