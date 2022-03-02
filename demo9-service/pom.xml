@@ -9,12 +9,18 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.example.service</groupId>
     <artifactId>demo9-service</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>com.example</groupId>
+            <groupId>com.example.database</groupId>
             <artifactId>demo9-database</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.example.http</groupId>
+            <artifactId>demo9-http</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
